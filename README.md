@@ -21,6 +21,6 @@ This project is a simple and responsive contact form with real-time frontend val
 4. If invalid → specific field errors will show
 
 ## 🧑‍💻 Author
-SAFALCHATURVEDI 
+SAFAL CHATURVEDI 
 _Web Development Intern – Elevate Labs_
 
